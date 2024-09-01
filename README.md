@@ -17,5 +17,5 @@ This project is a minimalistic web page designed to demonstrate the basics of HT
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/yourusername/simple-web-page.git
+   git clone https://github.com/AlishaGaikwad/Assignment1.git
 
